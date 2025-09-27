@@ -31,8 +31,7 @@ IG_PASSWORD=instagram_password
 ```
 **▶️ Usage запусти через командную строку:**
 ``` bash
-python Instagrambot.py```
-
-
+python Instagrambot.py
+```
 
 💡 Support Если проект оказался полезен — поставь ⭐️ на GitHub, подпишись и поделись 🙏
