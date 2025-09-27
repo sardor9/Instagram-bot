@@ -33,4 +33,6 @@ IG_PASSWORD=instagram_password
 ``` bash
 python Instagrambot.py```
 
+
+
 💡 Support Если проект оказался полезен — поставь ⭐️ на GitHub, подпишись и поделись 🙏
