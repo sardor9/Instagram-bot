@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 **4. Создать файл .env**
 ``` ini
-TELEGRAM_BOT_TOKEN=telegram_bot_tokeningiz
+TELEGRAM_BOT_TOKEN=telegram_bot_token
 IG_USERNAME=instagram_username
 IG_PASSWORD=instagram_password
 ```
