@@ -11,23 +11,23 @@ Bot **[aiogram](https://docs.aiogram.dev/)** va **[instagrapi](https://github.co
 ```bash
 git clone https://github.com/<username>/instagram-downloader-bot.git
 cd instagram-downloader-bot
-
+```
 **### 2. Virtual environment yaratish**
 ``` bash
 python -m venv venv
 source venv/bin/activate   # Linux/MacOS
 venv\Scripts\activate      # Windows
-
+```
 **### 3. Kutubxonalarni o‘rnatish**
 ``` bash
 pip install -r requirements.txt
-
+```
 **### 4. .env fayl yaratish**
 ``` ini
 TELEGRAM_BOT_TOKEN=telegram_bot_tokeningiz
 IG_USERNAME=instagram_username
 IG_PASSWORD=instagram_password
-
+```
 **### ▶️ Ishga tushirish**
 ``` bash
-python Instagrambot.py
+python Instagrambot.py```
