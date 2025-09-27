@@ -1,0 +1,3 @@
+# ignore secret files
+.env
+*.json
